@@ -25,4 +25,4 @@ app.use('/poll', poll);
 const port = 3000;
 
 // Start server
-app.listen(process.env.PORT || port, () => console.log(`Server started on port ${port}`));
+app.listen(process.env.PORT || port, () => console.log(`Server started`));
