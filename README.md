@@ -17,4 +17,4 @@ Full Stack application that allows real time voting and updating using web socke
 7. Local Storage
 
 ## DEMO
-[https://davidsfriendfinder.herokuapp.com/](https://davidsfriendfinder.herokuapp.com/)
+[https://pollstart.herokuapp.com/](https://pollstart.herokuapp.com//)
